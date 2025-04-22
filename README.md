@@ -25,6 +25,7 @@ Models used in this work are built using [MedViT](https://github.com/Omid-Nejati
 ### Dataset 
 To download the datasets, please refer to the dataset folder and create the following local folder structure:
 
+```
 Pulmonary_data/
 ├── Normal/
 │   └── nc1.jpg
@@ -36,6 +37,7 @@ Emphysema_data/
 ├── Slices/
 ├── Patch_label.csv
 └── Slice_label.csv
+```
 
 ### Training
 
