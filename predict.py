@@ -14,7 +14,7 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 label_names = ['NORMAL','FIBROSIS','NT','CLE','PSE']
 n_classes   = len(label_names)
 
-model.load_state_dict(torch.load("best_fusion_rew.pth"))
+model.load_state_dict(torch.load("path to best model"))
 model.eval()
 
 y_true, y_pred, y_prob = [], [], []
