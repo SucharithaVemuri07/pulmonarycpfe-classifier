@@ -67,3 +67,5 @@ Matthews Corr. Coefficient     0.7031
 - [Fibrosis](https://www.nature.com/articles/s41586-020-2938-9) - Pulmonary Fibrosis - Mechanism to Medicine
 - [Emphysema](https://www.atsjournals.org/doi/abs/10.1513/pats.200708-126et) - Details of Emphysema
 
+Thanks to the open-source community and CPFE researchers! If you have any questions or suggestions, feel free to reach out!
+
