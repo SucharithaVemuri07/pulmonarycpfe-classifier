@@ -67,5 +67,15 @@ Matthews Corr. Coefficient     0.7031
 - [Fibrosis](https://www.nature.com/articles/s41586-020-2938-9) - Pulmonary Fibrosis - Mechanism to Medicine
 - [Emphysema](https://www.atsjournals.org/doi/abs/10.1513/pats.200708-126et) - Details of Emphysema
 
-Thanks to the open-source community and CPFE researchers! If you have any questions or suggestions, feel free to reach out!
+Thanks to the open-source community and CPFE researchers! 
 
+If you really liked and planning to use the idea in your work, please cite this repository: 
+@misc{fibemnet2025,
+  title        = {FibEmNet: Dual-Pathology classification and detection using CT images},
+  author       = {Sucharitha Vemuri},
+  year         = {2025},
+  howpublished = {\url{https://github.com/SucharithaVemuri07/pulmonarycpfe-classifier}},
+  note         = {Work presented at the University of Central Florida}
+}
+
+Any questions or suggestions, feel free to reach out!
