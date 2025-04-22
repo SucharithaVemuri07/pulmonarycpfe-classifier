@@ -70,6 +70,7 @@ Matthews Corr. Coefficient     0.7031
 Thanks to the open-source community and CPFE researchers! 
 
 If you really liked and planning to use the idea in your work, please cite this repository: 
+```
 @misc{fibemnet2025,
   title        = {FibEmNet: Dual-Pathology classification and detection using CT images},
   author       = {Sucharitha Vemuri},
@@ -77,5 +78,5 @@ If you really liked and planning to use the idea in your work, please cite this 
   howpublished = {\url{https://github.com/SucharithaVemuri07/pulmonarycpfe-classifier}},
   note         = {Work presented at the University of Central Florida}
 }
-
+```
 Any questions or suggestions, feel free to reach out!
